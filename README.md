@@ -34,7 +34,7 @@
 [![n8n](https://cdn.tech.eu/uploads/2025/10/n8n-759.png)](https://n8n.io/)  
 [![Make](https://mma.prnewswire.com/media/2662866/Make_Logo.jpg?p=facebook)](https://www.make.com/)  
 [![Airtable](https://i.pcmag.com/imagery/reviews/06GdAglsVsGlkBgtUw4Dtwb-13..v1741201484.png)](https://airtable.com/)
-[![ChatGPT](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg)](https://chat.openai.com/)  
+[![ChatGPT](https://logovent.com/blog/wp-content/uploads/2024/09/Chat-GPT-Logo.png)](https://chat.openai.com/)  
 
 
 
