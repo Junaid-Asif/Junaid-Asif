@@ -24,8 +24,13 @@
 - 🎮 Enjoy problem-solving challenges and coding puzzles  
 - ☕ Coffee lover and night coder ☄️  
 
-## 🏷️ Tech Badges (Optional)
+## 🏷️ Tech Badges & Logos
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔗 Automation Tools
+![n8n](https://img.shields.io/badge/n8n-#EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-#EA4B71?style=for-the-badge&logo=make&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-#61DAFB?style=for-the-badge&logo=openai&logoColor=black)
+![Airtable](https://img.shields.io/badge/Airtable-#61DAFB?style=for-the-badge&logo=airtable&logoColor=black)
