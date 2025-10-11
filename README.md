@@ -9,8 +9,8 @@
 - 🤝 **Collaboration:** Open to working on exciting projects and new ideas  
 
 ## 🛠️ Skills & Technologies
-- **Frontend:** React.js, HTML5, CSS3, JavaScript  
-- **Backend & DB:** SQL, exploring NoSQL, Node.js basics  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend & DB:** SQL(oracle), exploring NoSQL, Node.js basics 
 - **Tools & Platforms:** Git, GitHub, Make.com, n8n, VS Code  
 - **Other:** Data Annotation, Automation Workflows  
 
