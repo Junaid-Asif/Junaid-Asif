@@ -30,7 +30,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🔗 Automation Tools
-![n8n](https://img.shields.io/badge/n8n-#EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-#EA4B71?style=for-the-badge&logo=make&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-#61DAFB?style=for-the-badge&logo=openai&logoColor=black)
-![Airtable](https://img.shields.io/badge/Airtable-#61DAFB?style=for-the-badge&logo=airtable&logoColor=black)
+[![n8n](https://seeklogo.com/images/N/n8n-logo-5B0A76E5C7-seeklogo.com.png)](https://n8n.io/)
+[![Make](https://seeklogo.com/images/M/make-logo-44A4A2E540-seeklogo.com.png)](https://www.make.com/)
+[![ChatGPT](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg)](https://chat.openai.com/)
+[![Airtable](https://seeklogo.com/images/A/airtable-logo-4B1B2CDA2C-seeklogo.com.png)](https://airtable.com/)
+
