@@ -30,8 +30,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🔗 Automation Tools
-[![n8n](https://seeklogo.com/images/N/n8n-logo-5B0A76E5C7-seeklogo.com.png)](https://n8n.io/)
-[![Make](https://seeklogo.com/images/M/make-logo-44A4A2E540-seeklogo.com.png)](https://www.make.com/)
+[![n8n](https://assets.stickpng.com/images/62b9bc0c485cae0004c7e7b2.png)](https://n8n.io/)
+[![Make](https://cdn.worldvectorlogo.com/logos/make-1.svg)](https://www.make.com/)
 [![ChatGPT](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg)](https://chat.openai.com/)
-[![Airtable](https://seeklogo.com/images/A/airtable-logo-4B1B2CDA2C-seeklogo.com.png)](https://airtable.com/)
+[![Airtable](https://cdn.worldvectorlogo.com/logos/airtable.svg)](https://airtable.com/)
 
