@@ -21,8 +21,9 @@
 
 ## ✨ Fun Facts
 - 🌟 Always exploring new tools and frameworks  
-- 🎮 Enjoy problem-solving challenges and coding puzzles  
-- ☕ Coffee lover and night coder ☄️  
+- 🎮 Enjoy solving coding puzzles and programming challenges  
+- 🌱 Passionate about farming and nature
+
 
 ## 🏷️ Tech Badges & Logos
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -30,8 +31,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🔗 Automation Tools
-[![n8n](https://assets.stickpng.com/images/62b9bc0c485cae0004c7e7b2.png)](https://n8n.io/)
-[![Make](https://cdn.worldvectorlogo.com/logos/make-1.svg)](https://www.make.com/)
-[![ChatGPT](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg)](https://chat.openai.com/)
-[![Airtable](https://cdn.worldvectorlogo.com/logos/airtable.svg)](https://airtable.com/)
+[![ChatGPT](https://logovent.com/blog/wp-content/uploads/2024/09/Chat-GPT-Logo.png)](https://chat.openai.com/)  
+[![n8n](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/1200px-N8n-logo-new.svg.png)](https://n8n.io/)  
+[![Make](https://mma.prnewswire.com/media/2662866/Make_Logo.jpg?p=facebook)](https://www.make.com/)  
+[![Airtable](https://i.pcmag.com/imagery/reviews/06GdAglsVsGlkBgtUw4Dtwb-13..v1741201484.png)](https://airtable.com/)
 
