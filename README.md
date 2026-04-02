@@ -15,7 +15,7 @@
 - **Other:** Data Annotation, Automation Workflows  
 
 ## 📫 Get in Touch
-- 📧 **Email:** [asifj0741@gmail.com](mailto:asifj0741@gmail.com)  
+- 📧 **Email:** [asifj0741@gmail.com](mailto:mjunaidasifjob@gmail.com)  
 - 💼 **GitHub:** [Junaid-Asif](https://github.com/Junaid-Asif)  
 - 🔗 **LinkedIn:** [Muhammad Junaid Asif](https://www.linkedin.com/in/muhammad-junaid-asif-80303225a)  
 
