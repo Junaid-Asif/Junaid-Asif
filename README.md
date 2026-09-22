@@ -7,8 +7,8 @@
 - 💻 **Passion:** Software development, machine learning, and innovative projects  
 - 📝 **Current Work:** Machine learning, data annotation, and automation workflows using **Python, Make.com** and **n8n**  
 - 🌐 **Specialization:** Machine Learning, Computer Vision, and Frontend Development, primarily using **React.js**  
-- 🛢️ **Experience:** SQL Databases, exploring NoSQL technologies  
 - 🤝 **Collaboration:** Open to working on exciting projects and new ideas  
+- 🛢️ **Others:** SQL Databases, exploring NoSQL technologies
 
 ## 🛠️ Skills & Technologies
 - **Machine Learning:** End-to-end ML pipelines, data collection, preprocessing, annotation, model training, model evaluation  
